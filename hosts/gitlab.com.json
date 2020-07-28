@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Dashboard",
+    "url": "/",
+    "description": "Dashboard",
+    "include": "include"
+  },
+  {
+    "title": "Operations",
+    "url": "/-/operations",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Environments",
+    "url": "/-/operations/environments",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Security",
+    "url": "/-/security",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "New snippet",
+    "url": "/-/snippets/new",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Activity",
+    "url": "/dashboard/activity",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Your groups",
+    "url": "/dashboard/groups",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Milestones",
+    "url": "/dashboard/milestones",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Your projects",
+    "url": "/dashboard/projects",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Starred projects",
+    "url": "/dashboard/projects/starred",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Snippets",
+    "url": "/dashboard/snippets",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Explore projects",
+    "url": "/explore",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Explore groups",
+    "url": "/explore/groups",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "New group",
+    "url": "/groups/new",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Help",
+    "url": "/help",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Settings",
+    "url": "/profile",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "New...",
+    "url": "/projects/new",
+    "description": "New...",
+    "include": "include"
+  },
+  {
+    "title": "Search",
+    "url": "/search",
+    "description": "Search",
+    "include": "include"
+  },
+  {
+    "title": "Change password",
+    "url": "/profile/password/edit",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Account",
+    "url": "/profile/account",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Billing",
+    "url": "/profile/billings",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Applications",
+    "url": "/profile/applications",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Chat",
+    "url": "/profile/chat_names",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Access Tokens",
+    "url": "/profile/personal_access_tokens",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Emails",
+    "url": "/profile/emails",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Notifications",
+    "url": "/profile/notifications",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "SSH Keys",
+    "url": "/profile/keys",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "GPG Keys",
+    "url": "/profile/gpg_keys",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Preferences",
+    "url": "/profile/preferences",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Active Sessions",
+    "url": "/profile/active_sessions",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Authentication log",
+    "url": "/profile/audit_log",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Usage Quotas",
+    "url": "/profile/usage_quotas",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "I forgot my password",
+    "url": "/profile/password/reset",
+    "description": "",
+    "include": "include"
+  },
+  {
+    "title": "Sign out",
+    "url": "/users/sign_out",
+    "description": "",
+    "include": ""
+  }
+]
