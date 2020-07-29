@@ -1,0 +1,222 @@
+﻿[
+  {
+    "title": "Forgot password?",
+    "url": "/account/access_password_reset",
+    "description": ""
+  },
+  {
+    "title": "Tweet",
+    "url": "/compose/tweet",
+    "description": ""
+  },
+  {
+    "title": "Explore",
+    "url": "/explore",
+    "description": ""
+  },
+  {
+    "title": "#blogging",
+    "url": "/hashtag/blogging",
+    "description": ""
+  },
+  {
+    "title": "#hashtags",
+    "url": "/hashtag/hashtags",
+    "description": ""
+  },
+  {
+    "title": "Home",
+    "url": "/home",
+    "description": ""
+  },
+  {
+    "title": "Bookmarks",
+    "url": "/i/bookmarks",
+    "description": ""
+  },
+  {
+    "title": "Show more",
+    "url": "/i/connect_people",
+    "description": ""
+  },
+  {
+    "title": "Directory",
+    "url": "/i/directory/profiles",
+    "description": ""
+  },
+  {
+    "title": "View keyboard shortcuts",
+    "url": "/i/keyboard_shortcuts",
+    "description": ""
+  },
+  {
+    "title": "Messages",
+    "url": "/messages",
+    "description": ""
+  },
+  {
+    "title": "New message",
+    "url": "/messages/compose",
+    "description": ""
+  },
+  {
+    "title": "Notifications",
+    "url": "/notifications",
+    "description": ""
+  },
+  {
+    "title": "Mentions",
+    "url": "/notifications/mentions",
+    "description": ""
+  },
+  {
+    "title": "#forusbyus",
+    "url": "/search",
+    "description": ""
+  },
+  {
+    "title": "About Twitter",
+    "url": "/settings/about",
+    "description": ""
+  },
+  {
+    "title": "Accessibility",
+    "url": "/settings/accessibility",
+    "description": ""
+  },
+  {
+    "title": "Account",
+    "url": "/settings/account",
+    "description": ""
+  },
+  {
+    "title": "Personalization and data",
+    "url": "/settings/account/personalization",
+    "description": ""
+  },
+  {
+    "title": "Applications",
+    "url": "/settings/applications",
+    "description": ""
+  },
+  {
+    "title": "Autoplay",
+    "url": "/settings/autoplay",
+    "description": ""
+  },
+  {
+    "title": "Blocked accounts",
+    "url": "/settings/blocked/all",
+    "description": ""
+  },
+  {
+    "title": "Content preferences",
+    "url": "/settings/content_preferences",
+    "description": ""
+  },
+  {
+    "title": "Country",
+    "url": "/settings/country",
+    "description": ""
+  },
+  {
+    "title": "Data usage",
+    "url": "/settings/data",
+    "description": ""
+  },
+  {
+    "title": "Deactivate your account",
+    "url": "/settings/deactivate",
+    "description": ""
+  },
+  {
+    "title": "Display",
+    "url": "/settings/display",
+    "description": ""
+  },
+  {
+    "title": "Email",
+    "url": "/settings/email",
+    "description": ""
+  },
+  {
+    "title": "Email notifications",
+    "url": "/settings/email_notifications",
+    "description": ""
+  },
+  {
+    "title": "Explore settings",
+    "url": "/settings/explore",
+    "description": ""
+  },
+  {
+    "title": "Display language",
+    "url": "/settings/language",
+    "description": ""
+  },
+  {
+    "title": "Muted",
+    "url": "/settings/mute",
+    "description": ""
+  },
+  {
+    "title": "Notifications",
+    "url": "/settings/notifications",
+    "description": ""
+  },
+  {
+    "title": "Advanced filters",
+    "url": "/settings/notifications/advanced_filters",
+    "description": ""
+  },
+  {
+    "title": "Password",
+    "url": "/settings/password",
+    "description": ""
+  },
+  {
+    "title": "Phone",
+    "url": "/settings/phone",
+    "description": ""
+  },
+  {
+    "title": "Push notifications",
+    "url": "/settings/push_notifications",
+    "description": ""
+  },
+  {
+    "title": "Privacy and safety",
+    "url": "/settings/safety",
+    "description": ""
+  },
+  {
+    "title": "Username",
+    "url": "/settings/screen_name",
+    "description": ""
+  },
+  {
+    "title": "Search settings",
+    "url": "/settings/search",
+    "description": ""
+  },
+  {
+    "title": "Security",
+    "url": "/settings/security",
+    "description": ""
+  },
+  {
+    "title": "SMS notifications",
+    "url": "/settings/sms_notifications",
+    "description": ""
+  },
+  {
+    "title": "Your Twitter data",
+    "url": "/settings/your_twitter_data",
+    "description": ""
+  },
+  {
+    "title": "Create a List",
+    "url": "/i/lists/create",
+    "description": ""
+  }
+]

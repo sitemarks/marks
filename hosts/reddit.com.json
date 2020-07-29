@@ -1,0 +1,152 @@
+﻿[
+  {
+    "title": "Frontpage",
+    "url": "/",
+    "description": ""
+  },
+  {
+    "title": "Account activity",
+    "url": "/account-activity",
+    "description": ""
+  },
+  {
+    "title": "Chat messages",
+    "url": "/chat",
+    "description": ""
+  },
+  {
+    "title": "Reddit coins",
+    "url": "/coins/",
+    "description": ""
+  },
+  {
+    "title": "Contact us",
+    "url": "/contact/",
+    "description": ""
+  },
+  {
+    "title": "Give gold",
+    "url": "/gold",
+    "description": "give an award in appreciation of this post."
+  },
+  {
+    "title": "Message the moderators",
+    "url": "/message/compose",
+    "description": ""
+  },
+  {
+    "title": "Messages",
+    "url": "/message/inbox/",
+    "description": "no new mail"
+  },
+  {
+    "title": "Set personalization preferences",
+    "url": "/personalization",
+    "description": ""
+  },
+  {
+    "title": "Preferences",
+    "url": "/prefs/",
+    "description": ""
+  },
+  {
+    "title": "Apps you have authorized",
+    "url": "/prefs/apps",
+    "description": ""
+  },
+  {
+    "title": "Apps",
+    "url": "/prefs/apps/",
+    "description": ""
+  },
+  {
+    "title": "Control who can send me messages",
+    "url": "/prefs/blocked",
+    "description": ""
+  },
+  {
+    "title": "Blocked",
+    "url": "/prefs/blocked/",
+    "description": ""
+  },
+  {
+    "title": "Deactivate",
+    "url": "/prefs/deactivate/",
+    "description": ""
+  },
+  {
+    "title": "RSS feeds",
+    "url": "/prefs/feeds/",
+    "description": ""
+  },
+  {
+    "title": "Friends",
+    "url": "/prefs/friends/",
+    "description": ""
+  },
+  {
+    "title": "Password/email",
+    "url": "/prefs/update/",
+    "description": ""
+  },
+  {
+    "title": "Reddit premium",
+    "url": "/premium/",
+    "description": ""
+  },
+  {
+    "title": "Site rules",
+    "url": "/rules/",
+    "description": ""
+  },
+  {
+    "title": "Submit a new link",
+    "url": "/submit",
+    "description": ""
+  },
+  {
+    "title": "Edit subscriptions",
+    "url": "/subreddits/",
+    "description": ""
+  },
+  {
+    "title": "Users",
+    "url": "/users/",
+    "description": ""
+  },
+  {
+    "title": "Read the API usage guidelines",
+    "url": "/wiki/api",
+    "description": ""
+  },
+  {
+    "title": "New",
+    "url": "/r/popular/new/",
+    "description": ""
+  },
+  {
+    "title": "Rising",
+    "url": "/r/popular/rising/",
+    "description": ""
+  },
+  {
+    "title": "Controversial",
+    "url": "/r/popular/controversial/",
+    "description": ""
+  },
+  {
+    "title": "Top",
+    "url": "/r/popular/top/",
+    "description": ""
+  },
+  {
+    "title": "Gilded",
+    "url": "/r/popular/gilded/",
+    "description": ""
+  },
+  {
+    "title": "Explore multis",
+    "url": "/r/multihub/",
+    "description": ""
+  }
+]

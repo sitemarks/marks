@@ -1,0 +1,217 @@
+﻿[
+  {
+    "title": "Settings",
+    "url": "/ui/account",
+    "description": "Account"
+  },
+  {
+    "title": "API",
+    "url": "/ui/account/api",
+    "description": "Account"
+  },
+  {
+    "title": "Billing",
+    "url": "/ui/account/billing",
+    "description": "Account"
+  },
+  {
+    "title": "Charge details",
+    "url": "/ui/account/billing/charges",
+    "description": "Account"
+  },
+  {
+    "title": "Current month usage",
+    "url": "/ui/account/billing/current",
+    "description": "Account"
+  },
+  {
+    "title": "Invoice template",
+    "url": "/ui/account/billing/invoice-info",
+    "description": "Account"
+  },
+  {
+    "title": "Invoices",
+    "url": "/ui/account/billing/invoices",
+    "description": "Account"
+  },
+  {
+    "title": "Payment methods",
+    "url": "/ui/account/billing/methods",
+    "description": "Account"
+  },
+  {
+    "title": "Account Info",
+    "url": "/ui/account/info",
+    "description": "Account"
+  },
+  {
+    "title": "Preferences",
+    "url": "/ui/account/preferences",
+    "description": "Account"
+  },
+  {
+    "title": "Subscriptions",
+    "url": "/ui/account/subscriptions",
+    "description": "Account"
+  },
+  {
+    "title": "Alerts",
+    "url": "/ui/alerts/events",
+    "description": "Alerts"
+  },
+  {
+    "title": "Alert Rules",
+    "url": "/ui/alerts/rules",
+    "description": "Alerts"
+  },
+  {
+    "title": "Dashboards",
+    "url": "/ui/dashboards",
+    "description": ""
+  },
+  {
+    "title": "Discovery",
+    "url": "/ui/discovery/",
+    "description": ""
+  },
+  {
+    "title": "Agent installation",
+    "url": "/ui/discovery/agent-installation",
+    "description": ""
+  },
+  {
+    "title": "Events",
+    "url": "/ui/events",
+    "description": ""
+  },
+  {
+    "title": "Forgot password?",
+    "url": "/ui/forgot",
+    "description": ""
+  },
+  {
+    "title": "Get Started",
+    "url": "/ui/getting-started",
+    "description": ""
+  },
+  {
+    "title": "Notification Hooks",
+    "url": "/ui/hooks/",
+    "description": ""
+  },
+  {
+    "title": "Infrastructure",
+    "url": "/ui/infrastructure/",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Compute",
+    "url": "/ui/infrastructure/compute",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Containers",
+    "url": "/ui/infrastructure/containers",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Network",
+    "url": "/ui/infrastructure/network",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Processes",
+    "url": "/ui/infrastructure/processes",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Compute",
+    "url": "/ui/infrastructure/serversCompute",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Network",
+    "url": "/ui/infrastructure/serversNetwork",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Overview",
+    "url": "/ui/infrastructure/serversOverview",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Storage",
+    "url": "/ui/infrastructure/serversStorage",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Storage",
+    "url": "/ui/infrastructure/storage",
+    "description": "Infrastructure"
+  },
+  {
+    "title": "Apps",
+    "url": "/ui/integrations/apps",
+    "description": ""
+  },
+  {
+    "title": "Invites",
+    "url": "/ui/invites",
+    "description": ""
+  },
+  {
+    "title": "Logs",
+    "url": "/ui/logs",
+    "description": ""
+  },
+  {
+    "title": "Monitoring",
+    "url": "/ui/monitoring",
+    "description": ""
+  },
+  {
+    "title": "Notifications",
+    "url": "/ui/notifications",
+    "description": ""
+  },
+  {
+    "title": "Sign up now",
+    "url": "/ui/registration",
+    "description": ""
+  },
+  {
+    "title": "Synthetics",
+    "url": "/ui/synthetics/apps",
+    "description": ""
+  },
+  {
+    "title": "Team",
+    "url": "/ui/team",
+    "description": ""
+  },
+  {
+    "title": "Account Access",
+    "url": "/ui/team/accounts",
+    "description": ""
+  },
+  {
+    "title": "App Access",
+    "url": "/ui/team/apps",
+    "description": ""
+  },
+  {
+    "title": "Invite",
+    "url": "/ui/team/invite",
+    "description": "Invite Guests"
+  },
+  {
+    "title": "App Transfer",
+    "url": "/ui/team/transfers",
+    "description": ""
+  },
+  {
+    "title": "What's new",
+    "url": "/ui/what-is-new",
+    "description": ""
+  }
+]

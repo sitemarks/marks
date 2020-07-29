@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Home",
+    "url": "/",
+    "description": "YouTube Home"
+  },
+  {
+    "title": "Account",
+    "url": "/account",
+    "description": ""
+  },
+  {
+    "title": "Advanced settings",
+    "url": "/account_advanced",
+    "description": ""
+  },
+  {
+    "title": "Billing and payments",
+    "url": "/account_billing",
+    "description": ""
+  },
+  {
+    "title": "Notifications",
+    "url": "/account_notifications",
+    "description": ""
+  },
+  {
+    "title": "Playback and performance",
+    "url": "/account_playback",
+    "description": ""
+  },
+  {
+    "title": "Privacy",
+    "url": "/account_privacy",
+    "description": ""
+  },
+  {
+    "title": "Connected accounts",
+    "url": "/account_sharing",
+    "description": ""
+  },
+  {
+    "title": "Advertise",
+    "url": "/ads/",
+    "description": ""
+  },
+  {
+    "title": "Creators",
+    "url": "/creators/",
+    "description": ""
+  },
+  {
+    "title": "channels I'm subscribed to",
+    "url": "/feed/channels",
+    "description": ""
+  },
+  {
+    "title": "Browse channels",
+    "url": "/feed/guide_builder",
+    "description": ""
+  },
+  {
+    "title": "History",
+    "url": "/feed/history",
+    "description": ""
+  },
+  {
+    "title": "Library",
+    "url": "/feed/library",
+    "description": "Library"
+  },
+  {
+    "title": "Your videos",
+    "url": "/feed/my_videos",
+    "description": ""
+  },
+  {
+    "title": "Subscriptions",
+    "url": "/feed/subscriptions",
+    "description": "Subscriptions"
+  },
+  {
+    "title": "Trending",
+    "url": "/feed/trending",
+    "description": "Trending"
+  },
+  {
+    "title": "Gaming",
+    "url": "/gaming",
+    "description": ""
+  },
+  {
+    "title": "Sign out",
+    "url": "/logout",
+    "description": ""
+  },
+  {
+    "title": "Test new features",
+    "url": "/new",
+    "description": ""
+  },
+  {
+    "title": "Paid memberships",
+    "url": "/paid_memberships",
+    "description": ""
+  },
+  {
+    "title": "Watch on TV",
+    "url": "/pair",
+    "description": ""
+  },
+  {
+    "title": "Watch later",
+    "url": "/playlist",
+    "description": ""
+  },
+  {
+    "title": "Purchases",
+    "url": "/purchases",
+    "description": "Purchases"
+  },
+  {
+    "title": "#CodingBlocks",
+    "url": "/results",
+    "description": ""
+  },
+  {
+    "title": "Test new features",
+    "url": "/testtube",
+    "description": ""
+  },
+  {
+    "title": "Upload video",
+    "url": "/upload",
+    "description": ""
+  },
+  {
+    "title": "Now playing",
+    "url": "/watch",
+    "description": ""
+  }
+]

@@ -1,0 +1,122 @@
+﻿[
+  {
+    "title": "API",
+    "url": "/account/api",
+    "description": ""
+  },
+  {
+    "title": "Billing",
+    "url": "/account/billing",
+    "description": ""
+  },
+  {
+    "title": "Settings",
+    "url": "/account/profile",
+    "description": ""
+  },
+  {
+    "title": "Create a team",
+    "url": "/account/team/new",
+    "description": ""
+  },
+  {
+    "title": "Databases",
+    "url": "/databases",
+    "description": ""
+  },
+  {
+    "title": "New database",
+    "url": "/databases/new",
+    "description": "Create database clusters"
+  },
+  {
+    "title": "Droplets",
+    "url": "/droplets",
+    "description": ""
+  },
+  {
+    "title": "New droplet",
+    "url": "/droplets/new",
+    "description": "Create cloud servers"
+  },
+  {
+    "title": "Images",
+    "url": "/images",
+    "description": ""
+  },
+  {
+    "title": "Kubernetes",
+    "url": "/kubernetes/clusters",
+    "description": ""
+  },
+  {
+    "title": "Clusters",
+    "url": "/kubernetes/clusters/new",
+    "description": "Create Kubernetes clusters"
+  },
+  {
+    "title": "Sign out",
+    "url": "/logout",
+    "description": ""
+  },
+  {
+    "title": "Marketplace",
+    "url": "/marketplace",
+    "description": ""
+  },
+  {
+    "title": "Monitoring",
+    "url": "/monitors",
+    "description": ""
+  },
+  {
+    "title": "New alert policy",
+    "url": "/monitors/new",
+    "description": "Monitor your Droplets"
+  },
+  {
+    "title": "Networking",
+    "url": "/networking",
+    "description": ""
+  },
+  {
+    "title": "Domains/DNS",
+    "url": "/networking/domains",
+    "description": "Route your existing domains"
+  },
+  {
+    "title": "New cloud firewall",
+    "url": "/networking/firewalls/new",
+    "description": "Increase Droplet security"
+  },
+  {
+    "title": "Floating Ips",
+    "url": "/networking/floating_ips",
+    "description": "Reserve IP addresses for Droplets"
+  },
+  {
+    "title": "New load balancer",
+    "url": "/networking/load_balancers/new",
+    "description": "Distribute traffic to Droplets"
+  },
+  {
+    "title": "New project",
+    "url": "/projects/new",
+    "description": ""
+  },
+  {
+    "title": "Spaces",
+    "url": "/spaces",
+    "description": ""
+  },
+  {
+    "title": "New space",
+    "url": "/spaces/new",
+    "description": "Store and serve static assets"
+  },
+  {
+    "title": "Volumes",
+    "url": "/volumes",
+    "description": ""
+  }
+]

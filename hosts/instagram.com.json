@@ -1,0 +1,97 @@
+﻿[
+  {
+    "title": "View Account Data",
+    "url": "/accounts/access_tool/",
+    "description": ""
+  },
+  {
+    "title": "Edit Comment Settings",
+    "url": "/accounts/comment_filter/",
+    "description": ""
+  },
+  {
+    "title": "Manage Contacts",
+    "url": "/accounts/contact_history/",
+    "description": ""
+  },
+  {
+    "title": "Support",
+    "url": "/accounts/data_controls_support/",
+    "description": ""
+  },
+  {
+    "title": "Edit Profile",
+    "url": "/accounts/edit/",
+    "description": ""
+  },
+  {
+    "title": "Apps and Websites",
+    "url": "/accounts/manage_access/",
+    "description": ""
+  },
+  {
+    "title": "Change Password",
+    "url": "/accounts/password/change/",
+    "description": ""
+  },
+  {
+    "title": "Privacy and Security",
+    "url": "/accounts/privacy_and_security/",
+    "description": ""
+  },
+  {
+    "title": "Edit Two-Factor Authentication Setting",
+    "url": "/accounts/two_factor_authentication/",
+    "description": ""
+  },
+  {
+    "title": "API",
+    "url": "/developer/",
+    "description": ""
+  },
+  {
+    "title": "Hashtags",
+    "url": "/directory/hashtags/",
+    "description": ""
+  },
+  {
+    "title": "Top Accounts",
+    "url": "/directory/profiles/",
+    "description": ""
+  },
+  {
+    "title": "Request Download",
+    "url": "/download/request/",
+    "description": ""
+  },
+  {
+    "title": "Emails from Instagram",
+    "url": "/emails/emails_sent/",
+    "description": ""
+  },
+  {
+    "title": "Email and SMS",
+    "url": "/emails/settings/",
+    "description": ""
+  },
+  {
+    "title": "Locations",
+    "url": "/explore/locations/",
+    "description": ""
+  },
+  {
+    "title": "See All",
+    "url": "/explore/people/",
+    "description": ""
+  },
+  {
+    "title": "Push Notifications",
+    "url": "/push/web/settings/",
+    "description": ""
+  },
+  {
+    "title": "Login Activity",
+    "url": "/session/login_activity/",
+    "description": ""
+  }
+]
