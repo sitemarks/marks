@@ -1,167 +1,167 @@
 ﻿[
   {
     "title": "Change name",
-    "url": "https://www.facebook.com/settings?tab=account&section=name&view",
+    "url": "/settings?tab=account&section=name&view",
     "description": "Settings > General Account Settings"
   },
   {
     "title": "Change username",
-    "url": "https://www.facebook.com/settings?tab=account&section=username&view",
+    "url": "/settings?tab=account&section=username&view",
     "description": "Settings > General Account Settings"
   },
   {
     "title": "Change email",
-    "url": "https://www.facebook.com/settings?tab=account&section=email&view",
+    "url": "/settings?tab=account&section=email&view",
     "description": "Settings > General Account Settings"
   },
   {
     "title": "Change ad account contact",
-    "url": "https://www.facebook.com/settings?tab=account&section=advertising_email&view",
+    "url": "/settings?tab=account&section=advertising_email&view",
     "description": "Settings > General Account Settings"
   },
   {
     "title": "Memorialisation settings",
-    "url": "https://www.facebook.com/settings?tab=account&section=account_management&view",
+    "url": "/settings?tab=account&section=account_management&view",
     "description": "Settings > General Account Settings"
   },
   {
     "title": "Choose friends to contact if you are locked out",
-    "url": "https://www.facebook.com/settings?tab=security&section=trusted_friends_recommended&view",
+    "url": "/settings?tab=security&section=trusted_friends_recommended&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Change password",
-    "url": "https://www.facebook.com/settings?tab=security&section=password&view",
+    "url": "/settings?tab=security&section=password&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Save your login information",
-    "url": "https://www.facebook.com/settings?tab=security&section=device_based_login&view",
+    "url": "/settings?tab=security&section=device_based_login&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Authorised logins",
-    "url": "https://www.facebook.com/settings?tab=security&section=authorized_logins&view",
+    "url": "/settings?tab=security&section=authorized_logins&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "App passwords",
-    "url": "https://www.facebook.com/settings?tab=security&section=per_app_passwords&view",
+    "url": "/settings?tab=security&section=per_app_passwords&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Get alerts about unrecognised logins",
-    "url": "https://www.facebook.com/settings?tab=security&section=login_alerts&view",
+    "url": "/settings?tab=security&section=login_alerts&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Encrypted notification emails",
-    "url": "https://www.facebook.com/settings?tab=security&section=public_key&view",
+    "url": "/settings?tab=security&section=public_key&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Recover external accounts",
-    "url": "https://www.facebook.com/settings?tab=security&section=delegated_account_recovery&view",
+    "url": "/settings?tab=security&section=delegated_account_recovery&view",
     "description": "Settings > Security and login"
   },
   {
     "title": "Your facebook information",
-    "url": "https://www.facebook.com/your_information/",
+    "url": "/your_information/",
     "description": "Settings > Information"
   },
   {
     "title": "Your activity",
-    "url": "https://www.facebook.com/settings?tab=privacy&section=composer&view",
+    "url": "/settings?tab=privacy&section=composer&view",
     "description": "Settings > Privacy"
   },
   {
     "title": "How people can find and contact you",
-    "url": "https://www.facebook.com/settings?tab=privacy&section=canfriend&view",
+    "url": "/settings?tab=privacy&section=canfriend&view",
     "description": "Settings > Privacy"
   },
   {
     "title": "Timeline and tagging",
-    "url": "https://www.facebook.com/settings?tab=timeline",
+    "url": "/settings?tab=timeline",
     "description": "Settings"
   },
   {
     "title": "Stories",
-    "url": "https://www.facebook.com/settings?tab=stories",
+    "url": "/settings?tab=stories",
     "description": "Settings"
   },
   {
     "title": "Location",
-    "url": "https://www.facebook.com/settings?tab=location",
+    "url": "/settings?tab=location",
     "description": "Settings"
   },
   {
     "title": "Blocking",
-    "url": "https://www.facebook.com/settings?tab=blocking",
+    "url": "/settings?tab=blocking",
     "description": "Settings"
   },
   {
     "title": "Language and region settings",
-    "url": "https://www.facebook.com/settings?tab=language",
+    "url": "/settings?tab=language",
     "description": "Settings"
   },
   {
     "title": "Face recognition settings",
-    "url": "https://www.facebook.com/settings?tab=facerec",
+    "url": "/settings?tab=facerec",
     "description": "Settings"
   },
   {
     "title": "Notifications settings",
-    "url": "https://www.facebook.com/settings?tab=notifications",
+    "url": "/settings?tab=notifications",
     "description": "Settings"
   },
   {
     "title": "Mobile Settings",
-    "url": "https://www.facebook.com/settings?tab=mobile",
+    "url": "/settings?tab=mobile",
     "description": "Settings"
   },
   {
     "title": "Public Post Filters and Tools",
-    "url": "https://www.facebook.com/settings?tab=followers",
+    "url": "/settings?tab=followers",
     "description": "Settings"
   },
   {
     "title": "Apps and websites",
-    "url": "https://www.facebook.com/settings?tab=applications",
+    "url": "/settings?tab=applications",
     "description": "Settings"
   },
   {
     "title": "Instant Games",
-    "url": "https://www.facebook.com/settings?tab=instant_games",
+    "url": "/settings?tab=instant_games",
     "description": "Settings"
   },
   {
     "title": "Business integrations",
-    "url": "https://www.facebook.com/settings?tab=business_tools",
+    "url": "/settings?tab=business_tools",
     "description": "Settings"
   },
   {
     "title": "Ads",
-    "url": "https://www.facebook.com/ds/preferences/?entry_product=ad_settings_screen",
+    "url": "/ds/preferences/?entry_product=ad_settings_screen",
     "description": "Settings"
   },
   {
     "title": "Support",
-    "url": "https://www.facebook.com/support/",
+    "url": "/support/",
     "description": "Settings"
   },
   {
     "title": "Events",
-    "url": "https://www.facebook.com/events/",
+    "url": "/events/",
     "description": "Events"
   },
   {
     "title": "Birthdays",
-    "url": "https://www.facebook.com/events/birthdays/",
+    "url": "/events/birthdays/",
     "description": "Events"
   },
   {
     "title": "Calendar",
-    "url": "https://www.facebook.com/events/calendar/",
+    "url": "/events/calendar/",
     "description": "Events"
   }
 ]
